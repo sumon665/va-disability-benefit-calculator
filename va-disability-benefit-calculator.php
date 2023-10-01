@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: VA Disability Benefit Calculator
- * Plugin URI: https://therouteoptions.com
+ * Plugin URI: https://github.com/sumon665
  * Description: VA Disability Benefit Calculator
  * Version: 1.0
- * Author: The Route Options
- * Author URI: https://therouteoptions.com
+ * Author: Md Sumon Mia
+ * Author URI: https://github.com/sumon665
  */
 
 
